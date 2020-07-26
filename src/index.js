@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'; //allows us to write HTML DSL (JSX) inside JS file.
+import ReactDOM from 'react-dom'; //The little "robot" that updates the view.
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
